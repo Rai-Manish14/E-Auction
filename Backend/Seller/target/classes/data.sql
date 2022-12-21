@@ -1,0 +1,2 @@
+insert into Products values(1,'Grove Street', 0, '2022-12-30', 'Ornament', 'Ganton', 'Very Good in design', 'carlJohnson@gmail.com', 'Carl', 'Johnson',4229542643,57143,'Green Lantern', 'Good', 25000,'Los Santos')
+insert into Products values(2,'209 Caleb Valley', 0, '2022-12-30', 'Painting', 'Lake Matilda', 'Very Good in design', 'carlJohnson@gmail.com', 'Carl', 'Johnson',4229542643,57143,'Johnson House', 'Good', 25000,'Greenwood')
